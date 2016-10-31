@@ -1,0 +1,1 @@
+SELECT * FROM mydb3.people;
